@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer base {
+	@font-face {
+		font-family: "priv";
+		font-weight: 400;
+		src: local("priv"),
+			url(./assets/sansBlock/sansBlockWebFont/SansBlockRegular.ttf)
+				format("ttf");
+	}
+}
+ */

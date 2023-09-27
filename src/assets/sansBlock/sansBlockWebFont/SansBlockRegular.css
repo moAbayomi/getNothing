@@ -1,0 +1,13 @@
+/* Webfont: SansBlockRegular */@font-face {
+    font-family: 'SansBlock';
+    src: url('SansBlockRegular.eot'); /* IE9 Compat Modes */
+    src: url('SansBlockRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('SansBlockRegular.woff2') format('woff2'), /* Modern Browsers */
+         url('SansBlockRegular.woff') format('woff'), /* Modern Browsers */
+         url('SansBlockRegular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('SansBlockRegular.svg#SansBlockRegular') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+
